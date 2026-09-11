@@ -40,7 +40,7 @@ pip install -r requirements.txt
 
 ```
 
-## 1. Introduzione al Progetto
+## Introduzione al Progetto
 
 Il progetto ha l'obiettivo di sviluppare e validare un algoritmo per la previsione direzionale sul mercato XAUUSD (timeframe 1 minuto). Il sistema evolve un precedente approccio basato sul Pattern Matching in una rigorosa pipeline di Data Science, integrando tecniche di preprocessing, analisi statistica e modelli di Machine Learning (Classificazione e Regressione).
 
